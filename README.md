@@ -1,0 +1,2 @@
+# dentalo
+GitHub Pages
